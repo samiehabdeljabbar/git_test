@@ -4,3 +4,10 @@ Hello Odin!
 
 <strong> this element allows you to put words into bold
 <em> Allows you to put words into italics
+
+Unordered list are created with the 
+* <ul>
+    <li></li>
+    </ul>
+
+function 
